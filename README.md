@@ -15,7 +15,7 @@ It classifies passwords as **"Weak"** or **"Strong"** based on various password 
 ```bash
 git clone https://github.com/Blackthorn23/Password-Strength-Analyser-Using-Machine-Learning.git
 ```
-### 2. Run the analysis script:
+### 2. Run the Password Analysis System (PAS):
 ```bash
 python PAS.py
 ```
